@@ -29,7 +29,7 @@ sudo systemctl start ngxapi
     "ips": [
         {
             "ip": "47.52.164.48",
-            "desc": "OneMoneyPay"
+            "desc": "OMP"
         },
         {
             "ip": "211.104.160.6",
@@ -41,31 +41,31 @@ sudo systemctl start ngxapi
         },
         {
             "ip": "47.75.125.148",
-            "desc": "GStar"
+            "desc": "GS"
         },
         {
             "ip": "120.78.178.248",
-            "desc": "FlyPay"
+            "desc": "FP"
         },
         {
             "ip": "103.107.237.136",
-            "desc": "AmmaPay"
+            "desc": "AP"
         },
         {
             "ip": "47.75.72.2",
-            "desc": "NewPay"
+            "desc": "NP"
         },
         {
             "ip": "103.40.165.14",
-            "desc": "WavePay"
+            "desc": "WP"
         },
         {
             "ip": "210.66.102.250",
-            "desc": "WavePay"
+            "desc": "WP"
         },
         {
             "ip": "112.73.6.202",
-            "desc": "LP18890700937"
+            "desc": "LP"
         }
     ]
 }
@@ -80,7 +80,7 @@ sudo systemctl start ngxapi
     "ips": [
         {
             "ip": "47.52.164.48",
-            "desc": "OneMoneyPay"
+            "desc": "OMP"
         },
         {
             "ip": "211.104.160.6",
@@ -92,31 +92,31 @@ sudo systemctl start ngxapi
         },
         {
             "ip": "47.75.125.148",
-            "desc": "GStar"
+            "desc": "GS"
         },
         {
             "ip": "120.78.178.248",
-            "desc": "FlyPay"
+            "desc": "FP"
         },
         {
             "ip": "103.107.237.136",
-            "desc": "AmmaPay"
+            "desc": "AP"
         },
         {
             "ip": "47.75.72.2",
-            "desc": "NewPay"
+            "desc": "NP"
         },
         {
             "ip": "103.40.165.14",
-            "desc": "WavePay"
+            "desc": "WP"
         },
         {
             "ip": "210.66.102.250",
-            "desc": "WavePay"
+            "desc": "WP"
         },
         {
             "ip": "112.73.6.202",
-            "desc": "LP18890700937"
+            "desc": "LP"
         }
     ]
 }
