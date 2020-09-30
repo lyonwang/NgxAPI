@@ -20,9 +20,9 @@ sudo systemctl start ngxapi
 ```
 
 # 取得白名單
-## 接口: http://10.10.1.101:5555/api/nginx/[apilive/notify]
+## 接口: http://10.10.100.101:5555/api/nginx/[domain hostname part]
 ## HTTP 方法: GET JSON
-## 取得範例: http://10.10.1.101:5555/api/nginx/notify
+## 取得範例: http://10.10.100.101:5555/api/nginx/notify
 ```
 {
     "domain": "notify",
@@ -71,7 +71,7 @@ sudo systemctl start ngxapi
 }
 ```
 # 設定白名單
-## 接口: http://10.10.1.101:5555/api/nginx
+## 接口: http://10.10.100.101:5555/api/nginx
 ## HTTP 方法: POST JSON
 ## 取得範例: notify
 ```
